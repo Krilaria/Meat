@@ -1,0 +1,327 @@
+Epoch 1/10:   7%|▋         | 14/212 [42:09<11:21:06, 206.40s/it, loss=1.71]
+100 слоев
+64 батч
+600 минут на эпоху
+6000 минут на обучение
+lr=0.001
+
+Epoch 1/5:   6%|▌         | 52/847 [06:24<2:04:13,  9.38s/it, loss=2.89]
+40 слоев
+32 батч
+120 минут на эпоху
+600 минут на обучение
+lr=0.0003
+
+Epoch 1/5:  42%|████▏     | 711/1693 [1:13:12<1:41:06,  6.18s/it, loss=1.22]
+40 слоев
+8 батч
+173 минут на эпоху
+870 минут на обучение
+lr=0.0003
+
+Epoch 1/5: 100%|██████████| 424/424 [22:38<00:00,  3.20s/it, loss=1.86]
+Epoch 2/5: 100%|██████████| 424/424 [27:10<00:00,  3.85s/it, loss=1.96]
+Epoch 3/5: 100%|██████████| 424/424 [26:11<00:00,  3.71s/it, loss=1.29]
+Epoch 4/5: 100%|██████████| 424/424 [27:10<00:00,  3.85s/it, loss=2.44]
+Epoch 5/5: 100%|██████████| 424/424 [26:41<00:00,  3.78s/it, loss=1.71]
+10 слоев
+32 батч
+26 минут на эпоху
+129 минут на обучение
+lr=0.0003
+
+Epoch 1/5: 100%|██████████| 163/163 [00:55<00:00,  2.92it/s, loss=1.67]
+Epoch 2/5: 100%|██████████| 163/163 [01:31<00:00,  1.78it/s, loss=1.65]
+Epoch 3/5: 100%|██████████| 163/163 [01:46<00:00,  1.53it/s, loss=1.53]
+Epoch 4/5: 100%|██████████| 163/163 [01:46<00:00,  1.53it/s, loss=1.57]
+Epoch 5/5: 100%|██████████| 163/163 [01:47<00:00,  1.51it/s, loss=1.59]
+8 слоев
+32 батч
+2 минуты на эпоху
+8 минут на обучение
+
+Epoch 1/20: 100%|██████████| 163/163 [02:58<00:00,  1.10s/it, loss=1.66]
+Epoch 2/20: 100%|██████████| 163/163 [02:57<00:00,  1.09s/it, loss=1.6]
+Epoch 3/20: 100%|██████████| 163/163 [02:52<00:00,  1.06s/it, loss=1.64]
+Epoch 4/20: 100%|██████████| 163/163 [02:54<00:00,  1.07s/it, loss=1.59]
+Epoch 5/20: 100%|██████████| 163/163 [02:51<00:00,  1.06s/it, loss=1.59]
+Epoch 6/20: 100%|██████████| 163/163 [02:54<00:00,  1.07s/it, loss=1.59]
+Epoch 7/20: 100%|██████████| 163/163 [02:47<00:00,  1.03s/it, loss=1.52]
+Epoch 8/20: 100%|██████████| 163/163 [02:55<00:00,  1.08s/it, loss=1.62]
+Epoch 9/20: 100%|██████████| 163/163 [02:52<00:00,  1.06s/it, loss=1.58]
+Epoch 10/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.58]
+Epoch 11/20: 100%|██████████| 163/163 [02:52<00:00,  1.06s/it, loss=1.62]
+Epoch 12/20: 100%|██████████| 163/163 [02:50<00:00,  1.05s/it, loss=1.63]
+Epoch 13/20: 100%|██████████| 163/163 [02:50<00:00,  1.05s/it, loss=1.71]
+Epoch 14/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.63]
+Epoch 15/20: 100%|██████████| 163/163 [02:50<00:00,  1.04s/it, loss=1.71]
+Epoch 16/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.55]
+Epoch 17/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.62]
+Epoch 18/20: 100%|██████████| 163/163 [02:50<00:00,  1.05s/it, loss=1.63]
+Epoch 19/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.51]
+Epoch 20/20: 100%|██████████| 163/163 [02:51<00:00,  1.05s/it, loss=1.61]
+10 cлоев
+32 батч
+3 минуты на эпоху
+55 минут на на обучение
+
+Epoch 1/10: 100%|██████████| 163/163 [03:36<00:00,  1.33s/it, loss=1.58]
+Epoch 2/10: 100%|██████████| 163/163 [03:15<00:00,  1.20s/it, loss=1.49]
+Epoch 3/10:  48%|████▊     | 79/163 [01:48<02:01,  1.45s/it, loss=1.61]
+10 cлоев
+32 батч
+3 минуты на эпоху
+35 минут на на обучение
+
+
+Epoch 1/20: 100%|██████████| 140/140 [08:30<00:00,  3.65s/it, loss=1.61]
+Epoch 2/20:  82%|████████▏ | 115/140 [05:53<01:12,  2.91s/it, loss=1.61]
+20 cлоев
+32 батч
+9 минут на эпоху
+180 минут на на обучение
+
+Говядина       6741
+Свинина        2458
+Кура           1244
+Индейка        1070
+Баранина        868
+Кролик          266
+Утка            158
+Оленина         155
+Конина          147
+Гусь            102
+Телятина         81
+Ягнятина         66
+Буйволятина      61
+Перепел          36
+Кабан            22
+Лось             17
+Страус           10
+Марал             7
+Цесарка           6
+Куропатка         5
+Косуля            4
+Медвежатина       3
+Изюбр             3
+Кенгуру           2
+Фазан             2
+Нутрия            2
+Рябчик            1
+Глухарь           1
+Коза              1
+Тетерев           1
+Бобер             1
+Як                1
+Заяц              1
+
+
+Кура        1571
+Говядина    1422
+Индейка     1337
+Баранина    1116
+Свинина     1050
+
+1276, 1120, 1043, 902, 855
+
+!git clone https://github.com/Krilaria/Meat_Dataset.git
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+from sklearn.preprocessing import LabelEncoder
+from sklearn.preprocessing import OneHotEncoder
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from torch.utils.data import Dataset, DataLoader, TensorDataset
+from tqdm import tqdm
+import matplotlib.pyplot as plt
+import time
+csv_file_path = "/content/Meat_Dataset/meatinfo.csv"
+df = pd.read_csv(csv_file_path, delimiter=';')
+# Загрузка списка уникальных меток классов
+file_path = "/content/Meat_Dataset/classes.txt"
+classes_list = []
+
+with open(file_path, "r") as file:
+    for line in file:
+        words = line.strip().split()
+        classes_list.extend(words)
+# Преобразование списка уникальных меток классов во множество для более эффективной проверки
+desired_classes = set(classes_list)
+
+# Очистка тренировочного набора данных
+df_cleaned = df[df.iloc[:, 1].isin(desired_classes)]
+
+df_cleaned.shape
+# Посмотрим на баланс классов
+df_cleaned['mtype'].value_counts()
+Классы сильно несбалансированы, модель может стать предвзятой. Поэтому, будем использовать веса классов.
+
+Кроме того, датасет считаю избыточным. Поэтому, удалим часть строк самых популярных классов.
+class_to_remove = 'Говядина'
+num_instances_to_remove = 7000
+
+# Выбор индексов 2000 случайных строк класса 'Говядина'
+indices_to_remove = df_cleaned[df_cleaned['mtype'] == class_to_remove].sample(num_instances_to_remove).index
+
+# Удаление выбранных строк по индексам
+df_cleaned2 = df_cleaned.drop(indices_to_remove).reset_index(drop=True)
+class_to_remove = 'Свинина'
+num_instances_to_remove_1 = 2000
+
+# Выбор индексов 2000 случайных строк класса 'Свинина'
+indices_to_remove = df_cleaned2[df_cleaned2['mtype'] == class_to_remove].sample(num_instances_to_remove_1).index
+
+# Удаление выбранных строк по индексам
+df_cleaned2 = df_cleaned2.drop(indices_to_remove).reset_index(drop=True)
+
+len(df_cleaned2)
+# Посмотрим на баланс классов
+df_cleaned2['mtype'].value_counts()
+
+Всё ещё есть сильно недопредставленные классы, зато мы сильно уменьшили датасет, что ускорит обучение модели. Теперь удалим все классы, у которых меньше 500 примеров.
+# Подсчет количества примеров для каждого класса
+class_counts = df_cleaned2['mtype'].value_counts()
+
+# Выбор классов, у которых меньше 500 примеров
+classes_to_remove = class_counts[class_counts < 500].index
+
+# Удаление строк, соответствующих выбранным классам
+df_cleaned2 = df_cleaned2[~df_cleaned2['mtype'].isin(classes_to_remove)].reset_index(drop=True)
+
+# Вывод обновленного датафрейма
+df_cleaned2['mtype'].value_counts()
+# Подсчет количества примеров для каждого класса
+class_counts = df_cleaned2['mtype'].value_counts()
+
+# Получение списка оставшихся классов
+filtered_classes = class_counts.index.tolist()
+classes_list = filtered_classes
+# Разделение на обучающую и тестовую выборки
+train_df, test_df = train_test_split(df_cleaned2, test_size=0.2, random_state=42)
+
+# Вывод размеров обучающей и тестовой выборок
+print("Размер обучающей выборки:", len(train_df))
+print("Размер тестовой выборки:", len(test_df))
+# Разделение данных на признаки (X) и целевую переменную (y)
+X_train = train_df.iloc[:, 0].values  # первая колонка - текст
+y_train = train_df.iloc[:, 1].values  # вторая колонка - целевая переменная
+
+X_test = test_df.iloc[:, 0].values  # первая колонка - текст
+y_test = test_df.iloc[:, 1].values  # вторая колонка - целевая переменная
+
+X_train = X_train.reshape(-1, 1)
+X_test = X_test.reshape(-1, 1)
+
+print(X_train.shape, y_train.shape, X_test.shape, y_test.shape)
+# Преобразование текста в числовые признаки с помощью TF-IDF векторизации
+vectorizer = TfidfVectorizer()
+X_train = vectorizer.fit_transform(X_train.ravel())
+X_test = vectorizer.transform(X_test.ravel())
+
+X_train
+# Преобразование названий классов в числовые метки
+label_encoder = LabelEncoder()
+y_train_encoded = label_encoder.fit_transform(y_train)
+y_test_encoded = label_encoder.transform(y_test)
+
+# Преобразование числовых меток в бинарные флаги
+one_hot_encoder = OneHotEncoder(categories='auto')
+y_train = one_hot_encoder.fit_transform(y_train_encoded.reshape(-1, 1)).toarray()
+y_test = one_hot_encoder.transform(y_test_encoded.reshape(-1, 1)).toarray()
+
+print(y_train.shape, y_test.shape)
+class TextClassificationModel(nn.Module):
+    def __init__(self, input_size, hidden_size, num_classes):
+        super(TextClassificationModel, self).__init__()
+        self.embedding = nn.Embedding(input_size, hidden_size)
+        self.lstm = nn.LSTM(hidden_size, hidden_size, batch_first=True)
+        self.fc = nn.Linear(hidden_size, num_classes)
+
+    def forward(self, x):
+        embedded = self.embedding(x)
+        output, _ = self.lstm(embedded)
+        output = output[:, -1, :]  # используем только последний выход LSTM
+        logits = self.fc(output)
+        return logits
+# Преобразование данных в формат Tensor
+X_train = torch.Tensor(X_train.toarray())
+X_test = torch.Tensor(X_test.toarray())
+y_train = torch.Tensor(y_train)
+y_test = torch.Tensor(y_test)
+# Создание DataLoader для тренировочных данных
+train_dataset = TensorDataset(X_train, y_train)
+train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+
+# Создание экземпляра модели
+model = TextClassificationModel(input_size=len(vectorizer.vocabulary_), hidden_size=10, num_classes=len(classes_list))
+
+# Определение весов классов
+class_weights = 1.0 / np.array([1276, 1120, 1043, 902, 855])
+     
+# Создание весов классов на основе распределения
+weights = torch.FloatTensor(class_weights)
+
+# Определение функции потерь с использованием весов классов
+criterion = nn.CrossEntropyLoss(weight=weights)
+
+# Определение оптимизатора
+optimizer = optim.Adam(model.parameters(), lr=0.0003)
+# Создание списка для сохранения значений лосса
+train_loss_history = []
+
+# Обучение модели
+num_epochs = 10
+start = time.time()
+try:
+    for epoch in range(num_epochs):
+        progress_bar = tqdm(train_loader, desc=f"Epoch {epoch+1}/{num_epochs}")
+        epoch_loss = 0.0
+        for batch_X, batch_y in progress_bar:
+            optimizer.zero_grad()  # Обнуление градиентов
+            outputs = model(batch_X.long())
+            batch_y_pred = torch.argmax(batch_y, dim=1)
+            loss = criterion(outputs, batch_y_pred.long())
+            loss.backward()  # Расчет градиентов
+            optimizer.step()  # Обновление весов
+            epoch_loss += loss.item()
+            progress_bar.set_postfix(loss=loss.item())  # Обновление информации в прогресс-баре
+        
+        # Сохранение значения лосса на каждой эпохе
+        train_loss_history.append(epoch_loss / len(train_loader))
+    end = time.time()
+    print(f"Всего потрачено {round((end - start) / 60, 1)} минут")
+except KeyboardInterrupt:
+    print('Прервано пользователем')
+# Построение графика лосса
+plt.plot(range(1, num_epochs+1), train_loss_history)
+plt.xlabel('Epoch')
+plt.ylabel('Loss')
+plt.title('Training Loss')
+plt.show()
+def predict_class(text):
+    # Преобразование текста в числовые признаки с помощью TF-IDF векторизации
+    text_vector = vectorizer.transform([text])
+    text_tensor = torch.Tensor(text_vector.toarray())
+
+    # Получение предсказаний модели
+    with torch.no_grad():
+        outputs = model(text_tensor.long())
+        predicted_label = torch.argmax(outputs, dim=1)
+        predicted_class = label_encoder.inverse_transform(predicted_label.numpy())
+
+    return predicted_class[0]
+text = []
+text.append("Набор для бульона свиной Набор для бульона свиной, в наличии, 76р/кг")
+text.append("Мясо премиум Предлагаем котлетное мясо мраморной говядины.")
+text.append("спинка цб")
+text.append("Говядина блочная 2 сорт в наличии ООО АгроСоюз реализует блочную говядину 2 сорт (80/20) Свободный объем 8 тонн Самовывоз или доставка. Все подробности по телефону.")
+text.append("Куриная разделка Продам кур и куриную разделку гост и халяль по хорошей цене .Тел:")
+text.append("Говяжью мукозу Продам говяжью мукозу в охл и замороженном виде. Есть объем.")
+for i in range(len(text)):
+    predicted_class = predict_class(text[i])
+    print(predicted_class)
